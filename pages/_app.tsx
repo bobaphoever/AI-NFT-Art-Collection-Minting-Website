@@ -17,7 +17,7 @@ const activeChain = {
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThirdwebProvider
-      clientId={process.env.NEXT_PUBLIC_TEMPLATE_CLIENT_ID="5cd481e55f17fda87747c35c7275b347"}
+      clientId={process.env.NEXT_PUBLIC_TEMPLATE_CLIENT_ID}
       activeChain={Sepolia}
     >
       <Component {...pageProps} />
