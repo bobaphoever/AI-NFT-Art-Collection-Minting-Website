@@ -1,3 +1,9 @@
+# AI-NFT-Art-Collection-Minting-Website
+An A.I. NFT collection that allows the user to connect their crypto wallet and claim/mint an A.I. generated art image. Built on the Sepolia testnet on Ethereum using Thirdweb. A wallet such as MetaMask is required to connect and claim NFT.
+
+URL: https://ainftart.vercel.app/
+
+
 ## Getting Started
 
 Create a project using this example:
